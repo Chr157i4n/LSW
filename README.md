@@ -1,30 +1,30 @@
-# Welcome to the Windows Subsystem for Linux (WSL) repository
+# Welcome to the Linux Subsystem for Windows (LSW) repository
 
 <p align="center">
-  <img src="./Images/Square44x44Logo.targetsize-256.png" alt="WSL logo"/>
+  <img src="./Images/Square44x44Logo.targetsize-256.png" alt="LSW logo"/>
 </p>
 
-[Learn more about WSL](https://aka.ms/wsldocs) | [Downloads & Release notes](https://github.com/microsoft/WSL/releases) | [Contributing to WSL](./CONTRIBUTING.md)
+[Learn more about LSW](https://aka.ms/lswdocs) | [Downloads & Release notes](https://github.com/microsoft/LSW/releases) | [Contributing to LSW](./CONTRIBUTING.md)
 
 ## About
 
-Windows Subsystem for Linux (WSL) is a powerful way for you to run your Linux command-line tools, utilities and applications, all unmodified and directly on Windows without the overhead of a traditional virtual machine or dual boot setup.
+Windows Subsystem for Linux (LSW) is a powerful way for you to run your Linux command-line tools, utilities and applications, all unmodified and directly on Windows without the overhead of a traditional virtual machine or dual boot setup.
 
-You can install WSL right away by running this command inside of your Windows command line:
+You can install LSW right away by running this command inside of your Windows command line:
 
 ```powershell
-wsl --install
+lsw --install
 ```
 
-You can learn more about [best practices for setup](https://learn.microsoft.com/windows/wsl/setup/environment), [overviews of WSL](https://learn.microsoft.com/windows/wsl/about) and more at our [WSL documentation page](https://learn.microsoft.com/windows/wsl/).
+You can learn more about [best practices for setup](https://learn.microsoft.com/windows/lsw/setup/environment), [overviews of LSW](https://learn.microsoft.com/windows/lsw/about) and more at our [LSW documentation page](https://learn.microsoft.com/windows/lsw/).
 
 ## Related repositories
 
-WSL also has related open source repositories:
+LSW also has related open source repositories:
 
-- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The Linux kernel shipped with WSL
-- [microsoft/WSLg](https://github.com/microsoft/wslg) - Support for Linux GUI apps in WSL
-- [microsoftdocs/wsl](https://github.com/microsoftdocs/wsl) - WSL documentation at aka.ms/wsldocs
+- [microsoft/LSW2-Linux-Kernel](https://github.com/microsoft/LSW2-Linux-Kernel) - The Linux kernel shipped with LSW
+- [microsoft/LSWg](https://github.com/microsoft/lswg) - Support for Linux GUI apps in LSW
+- [microsoftdocs/lsw](https://github.com/microsoftdocs/lsw) - LSW documentation at aka.ms/lswdocs
 
 ## Contributing
 
@@ -32,7 +32,7 @@ This project welcomes contributions of all types, including coding features / bu
 
 We ask that before you start working on a contribution, please read our [Contributor's Guide](./CONTRIBUTING.md).
 
-For guidance on developing for WSL, please read the [developer docs](./doc/docs/dev-loop.md) for instructions on how to build WSL from source and details on its architecture.
+For guidance on developing for LSW, please read the [developer docs](./doc/docs/dev-loop.md) for instructions on how to build LSW from source and details on its architecture.
 
 ## Code of Conduct
 
